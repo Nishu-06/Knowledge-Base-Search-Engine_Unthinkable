@@ -2,7 +2,7 @@
 
 An **AI-powered Knowledge Base Search Engine** that allows you to upload multiple documents, search across them, and get **synthesized answers** with citations using **Retrieval-Augmented Generation (RAG)**.  
 
-Built with **React + Node.js + Google Gemini** 🚀  
+Built with **React + Node.js + Google Gemini** 
 
 ---
 🎥 ***[Watch Demo Video](https://drive.google.com/file/d/1qJLn75gpRRnGxSVOoDKPhJdlB0Cp8r4I/view?usp=sharing)***
