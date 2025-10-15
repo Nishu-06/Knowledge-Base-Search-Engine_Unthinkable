@@ -56,4 +56,31 @@ traditional search + LLMs can be combined for powerful knowledge systems.
 git clone https://github.com/Nishu-06/Knowledge-Base-Search-Engine_Unthinkable
 cd Knowledge-base
 ```
+## 📂 Project Directory Structure
+```
+Knowledge-Base/
+│
+├── backend/            #Node.js + Express backend
+│ ├── src/
+│ │ ├── server.js       # Entry point of backend
+│ │ ├── routes.js       # API routes
+│ │ ├── store.js        # Index storage (JSON based)
+│ │ ├── chunker.js      # Text chunking logic
+│ │ ├── embedder.js     # Embedding + cosine similarity
+│ │ └── synthesize.js   # Gemini integration (LLM answers)
+│ │
+│ └── data/             # Local index storage
+│
+├── frontend/           # React + Tailwind frontend
+│ ├── src/
+│ │ ├── App.js          # Main React component
+│ │ └── components/     # UI components (Upload, Query, Dashboard)
+│ │
+│ └── public/           # Static assets (screenshots, etc.)
+│
+├── .env                # Environment variables (API keys, etc.)
+├── README.md           # Project documentation
+└── package.json        # Dependencies & scripts
+```
+
 
