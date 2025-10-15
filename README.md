@@ -11,7 +11,7 @@ Built with **React + Node.js + Google Gemini** 🚀
 
 ## ✨ Features
 
-✅ Upload multiple text documents (`.txt`, `.md`)  
+✅ Upload multiple text documents (`.txt`, `.pdf`)  
 ✅ Dashboard view of uploaded documents (with delete option)  
 ✅ Ask natural language questions → get **concise AI-generated answers**  
 ✅ Built-in **semantic search** (cosine similarity over embeddings)  
