@@ -5,6 +5,9 @@ An **AI-powered Knowledge Base Search Engine** that allows you to upload multipl
 Built with **React + Node.js + Google Gemini** 🚀  
 
 ---
+🎥 ***[Watch Demo Video](https://drive.google.com/file/d/1qJLn75gpRRnGxSVOoDKPhJdlB0Cp8r4I/view?usp=sharing)***
+
+---
 
 ## ✨ Features
 
@@ -33,7 +36,8 @@ Built with **React + Node.js + Google Gemini** 🚀
 <img src="frontend/public/img1.png" alt="Upload Demo" width="600"/>
 
 **Query & Answer with Citations**  
-<img src="frontend/public/img2.png" alt="Query Demo" width="600"/> 
+<img src="frontend/public/img2.png" alt="Query Demo" width="600"/>
+<img src="frontend/public/img3.png" alt="Query Demo" width="600"/
  
 
 ---
