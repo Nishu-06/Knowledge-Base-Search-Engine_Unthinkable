@@ -37,7 +37,7 @@ Built with **React + Node.js + Google Gemini**
 
 **Query & Answer with Citations**  
 <img src="frontend/public/img2.png" alt="Query Demo" width="600"/>
-<img src="frontend/public/img3.png" alt="Query Demo" width="600"/
+<img src="frontend/public/img3.png" alt="Query Demo" width="600"/>
  
 
 ---
